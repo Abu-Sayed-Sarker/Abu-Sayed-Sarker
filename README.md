@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abu Sayed</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<h3 align="left">Description:</h3>
+<h3 align="left">About me</h3>
 
 <p>Hi, I am Abu Saeed, I am currently studying in the Computer Science and Technology Department at Chittagong Polytechnic Institute. I have completed my Frontend Development from Programming Hero's Web Development course.<p/>
 
