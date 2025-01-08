@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/Abu-Sayed-Sarker/Abu-Sayed-Sarker/refs/heads/main/Black%20Yellow%20Modern%20Programmer%20LinkedIn%20Banner.png" alt="cover-photo" />
 <h1 align="center">Hi 👋, I'm Abu Sayed</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
