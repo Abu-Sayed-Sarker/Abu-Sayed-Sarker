@@ -1,94 +1,114 @@
-<img src="https://raw.githubusercontent.com/Abu-Sayed-Sarker/Abu-Sayed-Sarker/refs/heads/main/Black%20Yellow%20Modern%20Programmer%20LinkedIn%20Banner.png" alt="cover-photo" />
+<img src="https://raw.githubusercontent.com/Abu-Sayed-Sarker/Abu-Sayed-Sarker/refs/heads/main/Black%20Yellow%20Modern%20Programmer%20LinkedIn%20Banner.png" alt="cover-photo" width="100%" />
 
-<h1 align="center">👋 Hi there, I'm Abu Sayed!</h1>
-<h3 align="center">A passionate Frontend Developer from Bangladesh 🚀</h3>
+# 👋 Hello! I'm **Abu Sayed**  
+### 🚀 A passionate **Frontend Developer** from Bangladesh | Web Developer | Lifelong Learner
+
+---
+
+### 🌟 About Me:
+
+Hey there! I’m **Abu Sayed**, a **Frontend Developer** with a deep passion for creating beautiful, responsive, and user-friendly web applications. Currently pursuing my **Diploma in Computer Science and Engineering** at **Chittagong Polytechnic Institute**, I've had the privilege of learning **Frontend Development** from **Programming Hero's Web Development** course. I specialize in **React**, **JavaScript**, and **UI/UX Design**, with a keen interest in building applications that make a real impact.
+
+- 🌱 **Currently learning:** *Advanced JavaScript, React, UI/UX Design*  
+- 👨‍💻 **Tech Stack:** JavaScript | React | HTML | CSS | TailwindCSS | Firebase | MongoDB | Git  
+- 🎯 **Goal:** To build fast, scalable, and user-centric applications  
+- 🌐 **Portfolio:** [My Projects](https://as-sayed.netlify.app/)  
+
+Feel free to ask me about:
+- **JavaScript, React, and Web Development**  
+- **UI/UX Design, Figma, TailwindCSS**
+
+---
+
+### 🌍 Let's Connect:
+
+I'm always open to learning and connecting with other developers! Here's how we can stay in touch:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abu-sayed/)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://fb.com/abu-sayed)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abu-sayed-sarker)  
+[![Email](https://img.shields.io/badge/Email-DB4437?style=flat&logo=gmail&logoColor=white)](mailto:abu321060@gmail.com)
+
+---
+
+### 🔧 Tools & Technologies:
+
+Here are the tools I love to use in my development workflow:
+
+**Frontend Development:**
+- HTML5, CSS3, TailwindCSS
+- **JavaScript** (ES6+), **React**, **Vue.js**
+- **Figma** (UI/UX Design)
+
+**Backend Development:**
+- **Node.js**, **Express.js**
+- **MongoDB**, **Firebase**
+
+**Version Control & Deployment:**
+- **Git** (GitHub, GitLab)
+- **Netlify**, **Heroku**
+
+---
+
+### 🏆 GitHub Stats & Achievements:
 
 <p align="center">
-  <a href="https://as-sayed.netlify.app/">🌐 My Portfolio</a> | 
-  <a href="https://github.com/abu-sayed-sarker">💻 GitHub</a> | 
-  <a href="https://www.linkedin.com/in/abu-sayed/">🔗 LinkedIn</a> | 
-  <a href="mailto:abu321060@gmail.com">📧 Email</a>
-</p>
-
-### 👨‍💻 About Me:
-Hello! I'm **Abu Sayed**, a Computer Science and Technology student from Chittagong Polytechnic Institute. I have a strong focus on **Frontend Development** and have honed my skills through **Programming Hero's Web Development** course. I’m passionate about building modern web applications that are user-friendly and responsive. I’m always eager to learn new technologies and improve my skills.
-
-- 🌱 **Currently learning:** *Diploma in CSE and JavaScript/React*  
-- 👨‍💻 **Tech stack:** JavaScript, React, MongoDB, Express, HTML5, CSS3, TailwindCSS, Firebase
-- 💬 **Feel free to ask about:** Frontend development, JavaScript, React, MongoDB, Express
-- 📫 **How to reach me:** [abu321060@gmail.com](mailto:abu321060@gmail.com)
-
----
-
-### 🔗 Connect with Me:
-<p align="left">
-  <a href="https://linkedin.com/in/abu-sayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abu-sayed-linkedin" height="30" width="40" /></a>
-  <a href="https://fb.com/abu-sayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abu-sayed-facebook" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=abu-sayed-sarker&show_icons=true&count_private=true&hide=prs&theme=radical" alt="Abu Sayed's GitHub Stats" />
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
+### 📈 Top Languages:
 
-I work with a wide variety of technologies to build modern and performant web applications:
-
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-</p>
-
----
-
-### 📈 GitHub Stats:
-
-<a href="https://github.com/abu-sayed-sarker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abu-sayed-sarker&show_icons=true&locale=en" alt="abu-sayed-stats" />
-</a>
-
----
-
-### 🏆 GitHub Trophies:
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abu-sayed-sarker&theme=onestar" alt="abu-sayed-trophy" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abu-sayed-sarker&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-### 💡 Current Learning Goals:
-- 🚀 Master **JavaScript** and **React**.
-- 🔧 Work on **project scalability** and **performance optimization**.
-- 🎨 Learn more about **UI/UX design** with **Figma**.
+### 🛠️ Featured Projects:
+
+I’ve worked on several interesting projects that showcase my skills. Check out some of my favorite ones:
+
+- **[Portfolio Website](https://as-sayed.netlify.app/)**  
+   A modern and responsive portfolio showcasing my web development skills.
+
+- **[E-commerce App](https://github.com/abu-sayed-sarker/ecommerce-app)**  
+   A full-stack e-commerce application using **React** and **Node.js**.
+
+- **[Weather App](https://github.com/abu-sayed-sarker/weather-app)**  
+   A weather forecast web app built with **React** and **OpenWeather API**.
+
+- **[Task Manager](https://github.com/abu-sayed-sarker/task-manager)**  
+   A task management app to organize daily tasks using **React** and **MongoDB**.
 
 ---
 
-### 📝 Featured Projects:
-
-I have created some cool projects during my learning journey. Check them out below:
-
-- **[Personal Portfolio](https://as-sayed.netlify.app/)**: My personal space to showcase my work.
-- **[E-commerce Project](https://github.com/abu-sayed-sarker/ecommerce-app)**: A full-stack e-commerce application built with React and Node.js.
-- **[Weather App](https://github.com/abu-sayed-sarker/weather-app)**: A weather forecasting web app using React and OpenWeatherMap API.
-
-Feel free to explore these projects, and let me know what you think! 🙌
+### 💬 Currently Learning & Exploring:
+- 🔍 Advanced **JavaScript** concepts (ES6, Async/Await, Closures, etc.)
+- 🎨 **UI/UX Design** best practices with **Figma** and **TailwindCSS**
+- 🔧 **Full-stack development** with **React**, **Node.js**, and **Express**
+- 📚 Working on building more **real-world applications** to sharpen my skills
 
 ---
 
-### 📚 Fun Fact:
-When I’m not coding, I love to explore new technologies, read programming blogs, and play video games. My favorite games are strategy-based because they keep me thinking! 🎮
+### 🚀 Fun Facts:
+- I love solving problems, whether it's coding or playing strategy-based games. 🎮  
+- I'm constantly challenging myself to build **something new** every day.  
+- When I'm not coding, I enjoy **watching tech talks** and staying updated with the latest in **frontend development**. 📱
 
 ---
 
-### 🔒 License:
-This profile is open-source, licensed under the [MIT License](https://opensource.org/licenses/MIT).
+### 💡 Get in Touch:
+
+Feel free to reach out via **[email](mailto:abu321060@gmail.com)** or connect with me on **[LinkedIn](https://www.linkedin.com/in/abu-sayed/)**. I'm always happy to talk about **web development**, **projects**, or **learning new technologies**!
 
 ---
+
+### 🎯 License:
+This profile is open-source and licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+---
+
+#### Happy coding! ✨
 
