@@ -104,7 +104,9 @@ const abuSayed = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abu-sayed-sarker&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abu-sayed-sarker&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=4" alt="GitHub Trophies" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abu-sayed-sarker&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&include_all_commits=true&count_private=true&custom_title=Abu+Sayed%27s+GitHub+Achievements" height="160em" />
 </div>
 
 ---
