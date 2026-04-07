@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abu%20Sayed%20Sarker&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20MERN%20Stack%20Learner&descAlignY=58&descSize=18&animation=twinkling&fontAlign=50" width="100%"/>
 
 <!-- ANIMATED TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=🚀+Frontend+Developer+from+Bangladesh;⚡+Building+Blazing+Fast+Web+Apps;🧠+MERN+Stack+Learner+%7C+React+Fanatic;🎯+Turning+Ideas+into+Digital+Reality;💻+Clean+Code+%7C+Pixel+Perfect+UI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Frontend+Developer+from+Bangladesh;Building+Blazing+Fast+Web+Apps;MERN+Stack+Learner+%7C+React+Fanatic;Turning+Ideas+into+Digital+Reality;Clean+Code+%7C+Pixel+Perfect+UI" alt="Typing SVG" />
 
 <!-- SOCIAL BADGES -->
 <p>
@@ -25,7 +25,7 @@
 ---
 
 <!-- ABOUT ME SECTION -->
-<img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0d5e2d492a73bc30a2e5e3fa012/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623934622f313534313538303631313632342d5445363451474b524a4738535741495553374e462f6b6531375a77644742754c776c337173346f6263676c776f586f72685a4b6c5a506f49623833675a4f49423337324b71322f63303636333538316565313132353664396239316331313635313337346133353463386665613765376232356237663132323839363435393161653330386430313966306661376630383362386364373837613666323536383535376132326562373833626536666136366233633965313035333839323430356430366235316130"/>
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 ## ⚡ About Me
 
