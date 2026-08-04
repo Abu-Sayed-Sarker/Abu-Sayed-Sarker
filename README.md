@@ -23,16 +23,18 @@
 </div>
 
 ---
-
-<!-- ABOUT ME SECTION -->
-
-<div align="center">
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
 
 <img
-  alt="Coding"
-  width="360"
   src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
+  width="320"
 />
+
+</td>
+
+<td width="60%" valign="middle">
 
 ## ⚡ About Me
 
@@ -51,13 +53,13 @@ const abuSayed = {
     tools: ["Git", "GitHub", "VSCode"],
   },
   portfolio: "https://as-sayed.netlify.app/",
-  funFact: "I debug with console.log and I'm not ashamed 😄",
+  funFact: "I debug with console.log 😄",
 };
 ```
 
-</div>
-
----
+</td>
+</tr>
+</table>
 
 <!-- SKILLS SECTION -->
 ## 🛠️ Tech Stack & Tools
