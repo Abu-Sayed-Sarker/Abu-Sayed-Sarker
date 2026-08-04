@@ -25,7 +25,7 @@
 ---
 
 <!-- ABOUT ME SECTION -->
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" alt="Coding" width="360" margin-top='50' src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 ## ⚡ About Me
 
