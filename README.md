@@ -25,7 +25,14 @@
 ---
 
 <!-- ABOUT ME SECTION -->
-<img align="right" alt="Coding" width="360" margin-top='50' src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
+<div align="center">
+
+<img
+  alt="Coding"
+  width="360"
+  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
+/>
 
 ## ⚡ About Me
 
@@ -37,18 +44,18 @@ const abuSayed = {
   education: "Diploma in CSE — Chattogram Polytechnic",
   learning: ["MERN Stack", "Full-Stack Dev", "Programming Hero"],
   skills: {
-    languages:   ["JavaScript", "HTML5", "CSS3"],
-    frameworks:  ["React.js", "Express.js", "Node.js"],
-    database:    ["MongoDB", "Firebase"],
-    styling:     ["Tailwind CSS", "Figma"],
-    tools:       ["Git", "GitHub", "VSCode"],
+    languages: ["JavaScript", "HTML5", "CSS3"],
+    frameworks: ["React.js", "Express.js", "Node.js"],
+    database: ["MongoDB", "Firebase"],
+    styling: ["Tailwind CSS", "Figma"],
+    tools: ["Git", "GitHub", "VSCode"],
   },
   portfolio: "https://as-sayed.netlify.app/",
-  funFact:   "I debug with console.log and I'm not ashamed 😄",
+  funFact: "I debug with console.log and I'm not ashamed 😄",
 };
 ```
 
-<br/>
+</div>
 
 ---
 
